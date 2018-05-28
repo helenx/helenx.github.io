@@ -43,7 +43,7 @@ sec12: "Snapped dark matter in the wild"
 sec13: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
 
 # Social Links
-facebook: username
+#facebook: username
 #twitter:  username
 #google: username
 #instagram: username
@@ -56,8 +56,9 @@ github: helenx
 #stackoverflow: username
 #quora: username
 #reddit: username
+orcid: 0000-0001-6668-8221
 #medium: username
 #vimeo: username
-keybase: username
+#keybase: username
 email: test@gmail.com
 
