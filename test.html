@@ -9,5 +9,32 @@
 		<link rel="icon" type="image/x-icon" href="assets/images/favicon.ico" />
 	</head>
 	<body>
+		<!-- Header -->
+			<section id="header">
+				<header>
+				{% include header.html %}
+				</header>
+
+				<nav id="nav">
+				{% include nav.html %}
+				</nav>
+
+				<footer>
+				{% include social-links.html %}
+				</footer>
+			</section>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Footer -->
+					<section id="footer">
+					{% include footer.html %}
+					</section>
+			</div>
+		
+		<!-- Scripts -->
+			{% include script.html %}
+
 	</body>
 </html>
