@@ -2489,9 +2489,9 @@
 			color: #000000;
 		}
 
-		/* hftest	#header a:hover {
+			#header a:hover {
 				color: #000000 !important;
-			} */
+			}
 
 		#header > header {
 			-moz-flex-shrink: 0;
