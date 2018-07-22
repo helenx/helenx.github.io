@@ -7,8 +7,8 @@ year: 2018
 
 # Navigation
 nav1: "About"
-nav2: "Things I Can Do"
-nav3: "A Few Accomplishments"
+nav2: "Toolbox"
+nav3: "Projects"
 
 # Section1
 sec1: "WELCOME"
@@ -17,24 +17,24 @@ sec3: "I'm Helen, and I'm currently working as a postdoctoral scholar at the Scr
 #sec3: "Faucibus sed lobortis aliquam lorem blandit. Lorem eu nunc metus col. Commodo id in arcu ante lorem ipsum sed accumsan erat praesent faucibus commodo ac mi lacus. Adipiscing mi ac commodo. Vis aliquet tortor ultricies non ante erat nunc integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum."
 
 # Section 2
-sec4: "Things I Can Do"
-sec5: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer lorem ipsum dolor sit amet."
-icon1: "fas fa-code"
-icont1: "Write all the code"
-icon2: "fa-cubes"
-icont2: "Stack small boxes"
-icon3: "fa-book"
-icont3: "Read books and stuff"
-icon4: "fa-coffee"
-icont4: "Drink much coffee"
-icon5: "fa-bolt"
-icont5: "Lightning bolt"
-icon6: "fa-users"
-icont6: "Shadow clone technique"
+sec4: "Toolbox"
+sec5: "These are the skills and tools I use to get things done. I'm always looking to expand my skill set by learning new concepts and gaining more experience."
+icon1: "fa-code"
+icont1: "Python, SQL, Git, Fortran"
+icon2: "fa-line-chart"
+icont2: "Data visualization"
+icon3: "fa-database"
+icont3: "Data management"
+icon4: "fa-dot-circle-o"
+icont4: "Quantitative analysis"
+icon5: "fa-lightbulb-o"
+icont5: "Creative problem solving"
+icon6: "fa-globe"
+icont6: "Mandarin, Spanish"
 
 # Section 3
-sec6: "A Few Accomplishments"
-sec7: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer. Integer eu ante ornare amet commetus."
+sec6: "Projects"
+sec7: "Below are some projects I've been working on. Click on the images to learn more!"
 sec8: "Possibly broke spacetime"
 sec9: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
 sec10: "Terraformed a small moon"
