@@ -1,7 +1,7 @@
 #Site configuration
-title: Helen
-name: Helen
-author: Helen F.
+title: Helen S. Feng
+name: Helen S. Feng
+author: Helen Feng
 work:  Marine geophysicist
 year: 2018
 
@@ -11,10 +11,10 @@ nav2: "Things I Can Do"
 nav3: "A Few Accomplishments"
 
 # Section1
-sec1: "UNDER CONSTRUCTION"
-sec2: "silly nonsense"
-#sec2: "Just an incredibly simple responsive template for Jekyll."
-sec3: "Faucibus sed lobortis aliquam lorem blandit. Lorem eu nunc metus col. Commodo id in arcu ante lorem ipsum sed accumsan erat praesent faucibus commodo ac mi lacus. Adipiscing mi ac commodo. Vis aliquet tortor ultricies non ante erat nunc integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum."
+sec1: "WELCOME"
+sec2: "About"
+sec3: "I'm Helen, and I'm currently working as a postdoctoral scholar at the Scripps Institution of Oceanography, where I am the Data Manager for the International Ocean Discovery Program (IODP) Science Support Office. We manage proposals and site survey data throughout a rigorous review process in order to implement scientific ocean drilling expeditions."
+#sec3: "Faucibus sed lobortis aliquam lorem blandit. Lorem eu nunc metus col. Commodo id in arcu ante lorem ipsum sed accumsan erat praesent faucibus commodo ac mi lacus. Adipiscing mi ac commodo. Vis aliquet tortor ultricies non ante erat nunc integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum."
 
 # Section 2
 sec4: "Things I Can Do"
